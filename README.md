@@ -9,7 +9,7 @@ Clasificador de riesgo de cáncer de pulmón basado en los síntomas del pacient
 # Autores
 Jorge Andrey Garcia Vanegas, Daniel Felipe Calderón Calderón, Miguel Enrique Quintero Suarez
 # Objetivo
-Determinar el riesgo de un cáncer de pulmón
+Determinar el riesgo de un cáncer de pulmón basado en los síntomas que este presenta.
 # Dataset
 [https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset](https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link)
 # Modelos
