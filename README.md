@@ -17,6 +17,6 @@ Gaussian Naive Bayes, DecisionTreeClassifier, RandomForestClassifier, SVC, Agglo
 # Enlaces
 Codigo : [https://colab.research.google.com/drive/1qQ-CrF74A0MYrwhFxTzP-eEYCFQMlW3c?usp=sharing](https://colab.research.google.com/drive/1lRWe-Jis6U0UtJEu5g1rZGs8aUff7v2w?usp=sharing)
 
-Video: https://www.youtube.com/
+Video: 
 
-Diapositivas: https://gamma.app
+Diapositivas: 
