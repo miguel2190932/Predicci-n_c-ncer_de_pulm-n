@@ -1,8 +1,10 @@
-# Predicci-n_c-ncer_de_pulm-n
-
 # Clasificador de riesgo de cáncer de pulmón basado en los síntomas del paciente
+
 Clasificador de riesgo de cáncer de pulmón basado en los síntomas del paciente
-<--![BannerProyecto](https://github.com/JulianChacon11/prediccion-ataques-cardiacos/assets/82472712/4a797a21-e944-4d16-a90c-848004dd02a4)-->
+
+
+![800x300](https://github.com/miguel2190932/Predicci-n_c-ncer_de_pulm-n/assets/139878855/9e0e405a-6fc2-4867-ae88-707e54be3c29)
+
 
 # Autores
 Jorge Andrey Garcia Vanegas, Daniel Felipe Calderón Calderón, Miguel Enrique Quintero Suarez
